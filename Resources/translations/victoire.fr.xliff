@@ -75,12 +75,12 @@
       </trans-unit>
       <trans-unit id="84aa8297edcd04be060fa557c3ea245f9b5d79c8" resname="widget_form.form.targetEmail.label">
         <source>widget_form.form.targetEmail.label</source>
-        <target>Adresse de réponse</target>
+        <target>Adresse de réception</target>
         <jms:reference-file line="50">FormSlotBundle/Form/WidgetFormSlotType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="cd04be060fa5584aa8297ed5f9b5d79c87c3ea24" resname="widget_form.form.targetEmail.help_block">
         <source>widget_form.form.targetEmail.help_block</source>
-        <target>Indiquez sur quelle adresse email l'internaute doit répondre ?</target>
+        <target>Indiquez sur quelle adresse email vous recevrez les information du formulaire.</target>
         <jms:reference-file line="50">FormSlotBundle/Form/WidgetFormSlotType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="ffea1d626eb77b0783a8e6264194b1f3fc1e8015" resname="widget_form.form.title.label">
